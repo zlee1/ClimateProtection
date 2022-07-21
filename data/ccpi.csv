@@ -1,0 +1,62 @@
+﻿rank,country,iso,score
+1,Denmark,DNK,76.67
+2,Sweden,SWE,74.22
+3,Norway,NOR,73.29
+4,United Kingdom,GBR,73.09
+5,Morocco,MAR,71.6
+6,Chile,RCH,69.51
+7,India,IND,69.2
+8,Lithuania,LTU,64.89
+9,Malta,MLT,64.18
+10,Germany,DEU,63.53
+11,Finland,FIN,62.41
+12,Switzerland,CHE,61.7
+13,Portugal,PRT,61.11
+14,France,FRA,61.01
+15,Luxembourg,LUX,60.8
+16,Netherlands,NLD,60.44
+17,Ukraine,UKR,60.4
+18,Egypt,EGY,59.74
+19,European Union (27),,59.21
+20,Philippines,PHL,58.98
+21,Greece,GRC,58.22
+22,Colombia,COL,57.87
+23,Latvia,LVA,57.73
+24,Indonesia,IDN,57.17
+25,Mexico,MEX,56.05
+26,Croatia,HRV,55.96
+27,Italy,ITA,55.39
+28,Thailand,THA,55.01
+29,Estonia,EST,54.98
+30,Brazil,BRA,54.86
+31,Spain,ESP,54.35
+32,New Zealand,NZL,54.03
+33,Romania,ROU,52.43
+34,Austria,AUT,52.35
+35,China,CHN,52.2
+36,South Africa,ZAF,51.13
+37,Slovak Republic,SVK,50.67
+38,Turkey,TUR,50.53
+39,Cyprus,CYP,50.52
+40,Viet Nam,VNM,49.21
+41,Bulgaria,BGR,48.71
+42,Japan,JPN,48.53
+43,Ireland,IRL,47.86
+44,Argentina,ARG,47.08
+45,Belarus,BLR,46.66
+46,Belgium,BEL,45.9
+47,Slovenia,SVN,43.28
+48,Czech Republic,CZE,42.15
+49,Poland,POL,40.63
+50,Hungary,HUN,40.41
+51,Algeria,DZA,39.91
+52,United States,USA,37.39
+53,Russian Federation,RUS,34.73
+54,Malaysia,MYS,33.74
+55,Chinese Taipei,,30.7
+56,Australia,AUS,30.06
+57,Korea,KOR,26.74
+58,Canada,CAN,26.03
+59,Islamic Republic of Iran,IRN,25.66
+60,Saudi Arabia,SAU,24.25
+61,Kazakhstan,KAZ,19.23
