@@ -19,10 +19,10 @@ This project looks into many different aspects of climate change and there are p
 Climate Change Protection Index
 ![CCPI](images/ccpi.png "Climate Change Protection Index Map")
 
-Greenhouse Gas Emissions
+Greenhouse Gas Emissions per Capita
 ![GHG](images/ghg.png "Greenhouse Gas Emissions Map")
 
-CO<sub>2</sub> Emissions
+CO<sub>2</sub> Emissions per Capita
 ![CO2](images/co2.png "CO2 Emissions Map")
 
 ## Tools
