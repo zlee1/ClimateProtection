@@ -24,3 +24,16 @@ Greenhouse Gas Emissions
 
 CO<sub>2</sub> Emissions
 ![CO2](images/co2.png "CO2 Emissions Map")
+
+## Tools
+- Python
+- Jupyter Notebook
+- Plotly
+- Pandas
+
+## Sources
+Climate Change Protection Index data from https://en.wikipedia.org/wiki/Climate_Change_Performance_Index#2022_results
+
+Emission data from https://www.kaggle.com/datasets/danielrpdias/co2-and-greenhouse-gas-emissions
+
+Energy data from https://github.com/owid/energy-data
