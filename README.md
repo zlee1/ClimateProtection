@@ -34,6 +34,6 @@ CO<sub>2</sub> Emissions per Capita
 ## Sources
 Climate Change Protection Index data from https://en.wikipedia.org/wiki/Climate_Change_Performance_Index#2022_results
 
-Emission data from https://www.kaggle.com/datasets/danielrpdias/co2-and-greenhouse-gas-emissions
+Emission data from https://www.kaggle.com/datasets/danielrpdias/co2-and-greenhouse-gas-emissions (originally from https://github.com/owid/co2-data)
 
 Energy data from https://github.com/owid/energy-data
