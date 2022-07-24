@@ -25,6 +25,9 @@ Greenhouse Gas Emissions per Capita
 CO<sub>2</sub> Emissions per Capita
 ![CO2](images/co2.png "CO2 Emissions Map")
 
+Share of Energy Consumption that comes from Renewable Sources
+![Energy](images/energy.png "Renewable Energy Map")
+
 ## Tools
 - Python
 - Jupyter Notebook
