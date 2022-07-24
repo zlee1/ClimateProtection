@@ -4,6 +4,8 @@ This project takes a deep dive into some of the factors that contribute to clima
 ## Usage
 `climate_protection.ipynb` will generate all visualizations and can be run using a Jupyter Notebook-like interpreter.
 
+If you are just interested in exploring the maps themselves without messing with the code, the `html_maps` directory contains HTML files for all of the maps. Opening the files in a web browser will allow you to view and fully interact with them. 
+
 ## Topics
 This project looks into many different aspects of climate change and there are plans to cover much more. Currently, there are maps for the following:
 - Climate Change Protection Index (https://en.wikipedia.org/wiki/Climate_Change_Performance_Index)
