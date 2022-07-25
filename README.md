@@ -7,7 +7,7 @@ This project takes a deep dive into some of the factors that contribute to clima
 If you are just interested in exploring the maps themselves without messing with the code, the `html_maps` directory contains HTML files for all of the maps. Opening the files in a web browser will allow you to view and fully interact with them. 
 
 ## Topics
-This project looks into many different aspects of climate change and there are plans to cover much more. Currently, there are maps for the following:
+This project looks into many different aspects of climate change and there are plans to cover more. Currently, there are maps for the following:
 - Climate Change Protection Index (https://en.wikipedia.org/wiki/Climate_Change_Performance_Index)
 - Greenhouse Gas Emissions per Capita
 - Methane Emissions per Capita
@@ -16,6 +16,14 @@ This project looks into many different aspects of climate change and there are p
 - Share of Global CO<sub>2</sub> Emissions
 - Percent Growth of CO<sub>2</sub> Emissions
 - Primary Source of CO<sub>2</sub> Emissions
+- Share of Energy Consumption from Renewable Sources
+- Energy Consumption per Capita
+- Share of Energy Consumption from Nuclear Power
+- Share of Energy Consumption from Hydropower
+- Share of Energy Consumption from Solar Power
+- Share of Energy Consumption from Wind Power
+- Share of Energy Consumption from Biofuel
+- Share of Energy Consumption from Other Renewables
 
 ## Example Maps
 Climate Change Protection Index
